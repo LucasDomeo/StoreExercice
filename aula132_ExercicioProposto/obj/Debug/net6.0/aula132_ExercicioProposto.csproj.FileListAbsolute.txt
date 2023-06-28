@@ -1,0 +1,15 @@
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\bin\Debug\net6.0\aula132_ExercicioProposto.exe
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\bin\Debug\net6.0\aula132_ExercicioProposto.deps.json
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\bin\Debug\net6.0\aula132_ExercicioProposto.runtimeconfig.json
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\bin\Debug\net6.0\aula132_ExercicioProposto.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\bin\Debug\net6.0\aula132_ExercicioProposto.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\obj\Debug\net6.0\aula132_ExercicioProposto.csproj.AssemblyReference.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\obj\Debug\net6.0\aula132_ExercicioProposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\obj\Debug\net6.0\aula132_ExercicioProposto.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\obj\Debug\net6.0\aula132_ExercicioProposto.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\obj\Debug\net6.0\aula132_ExercicioProposto.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\obj\Debug\net6.0\aula132_ExercicioProposto.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\obj\Debug\net6.0\refint\aula132_ExercicioProposto.dll
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\obj\Debug\net6.0\aula132_ExercicioProposto.pdb
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\obj\Debug\net6.0\aula132_ExercicioProposto.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Área de Trabalho\CURSOS\C#\PROJETOS\AULAS\aula132_ExercicioProposto\aula132_ExercicioProposto\obj\Debug\net6.0\ref\aula132_ExercicioProposto.dll
